@@ -3,18 +3,18 @@
     "url": "https://zhao82.github.io ",
     "title": "博客",
     "description": "追梦人",
-    "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
+    "keywords": "zhao,blog,dream,indra,博客,逐梦",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
+    "name": "zhao",
     "twitterId": "@lxchapu",
     "avatar": "/img/avatar.jpg"
   },
   "hero": {
-    "name": "Kunyi",
+    "name": "zhao",
     "bio": "一个打工人",
     "description": "理想是追随稚晖君,欢迎一同学习",
     "socials": [
