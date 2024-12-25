@@ -1,8 +1,8 @@
 {
   "site": {
-    "url": "https://drowsyindra.github.io",
+    "url": "https://zhao82.github.io ",
     "title": "博客",
-    "description": "这是一个有理想的人走过的漫长道路",
+    "description": "追梦人",
     "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
@@ -15,7 +15,7 @@
   },
   "hero": {
     "name": "Kunyi",
-    "bio": "一个为理想痴狂实干的疯子",
+    "bio": "一个打工人",
     "description": "理想是追随稚晖君,欢迎一同学习",
     "socials": [
       {
